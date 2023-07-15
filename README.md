@@ -1,4 +1,5 @@
 # PyChat  
-第一版 使用TCP通信，wxython做界面  
-先学习使用GitHub  
-差不多了  
+一个使用TCP+wxython做的聊天程序
+
+可参考
+https://blog.csdn.net/cytcyt768/article/details/88572085#comments_26532870
